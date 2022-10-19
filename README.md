@@ -17,7 +17,7 @@ Trip duration
 User info
 ### Files used
 I used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. This project uses data for the first six month of 2017
-
+All the files were csv
 ### Credits
 Thanks to Udacity for this wonderful course & a Nanodegree Program in "Programming for Datascience with Python".
 
